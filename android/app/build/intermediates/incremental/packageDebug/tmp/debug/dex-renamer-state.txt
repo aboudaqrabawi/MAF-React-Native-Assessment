@@ -1,0 +1,7 @@
+#Mon Jul 19 10:55:54 EEST 2021
+base.1=/Users/aboudaqrabawi/Desktop/MAF-React-Native-Assessment/android/app/build/intermediates/dex/debug/mergeProjectDexDebug/classes.dex
+path.1=classes.dex
+base.0=/Users/aboudaqrabawi/Desktop/MAF-React-Native-Assessment/android/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex

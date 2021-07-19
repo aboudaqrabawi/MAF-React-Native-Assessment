@@ -1,0 +1,6 @@
+module Pods_mafreactnative {
+  umbrella header "Pods-mafreactnative-umbrella.h"
+
+  export *
+  module * { export * }
+}
